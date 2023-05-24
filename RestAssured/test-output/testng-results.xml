@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-22T16:13:04 IST" name="Default suite" finished-at="2023-05-22T16:13:09 IST" duration-ms="4641">
+    <groups>
+    </groups>
+    <test started-at="2023-05-22T16:13:04 IST" name="Default test" finished-at="2023-05-22T16:13:09 IST" duration-ms="4641">
+      <class name="POJO.ServiceNow_ReqAndResBuilder">
+        <test-method is-config="true" signature="ReqAndResSpec()[pri:0, instance:POJO.ServiceNow_ReqAndResBuilder@21e360a]" started-at="2023-05-22T16:13:04 IST" name="ReqAndResSpec" finished-at="2023-05-22T16:13:05 IST" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReqAndResSpec -->
+        <test-method signature="createNewIncidentUsingPOJO()[pri:0, instance:POJO.ServiceNow_ReqAndResBuilder@21e360a]" started-at="2023-05-22T16:13:05 IST" name="createNewIncidentUsingPOJO" finished-at="2023-05-22T16:13:09 IST" duration-ms="4176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewIncidentUsingPOJO -->
+      </class> <!-- POJO.ServiceNow_ReqAndResBuilder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

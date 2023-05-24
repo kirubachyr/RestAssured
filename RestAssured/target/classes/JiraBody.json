@@ -1,0 +1,16 @@
+{
+	"fields": {
+		"project":
+		{
+			"key": "LEAR",
+			"name": "12345"
+		},
+		"summary": "JIRA API Issues ",
+		"description": "Bug Created Using REST Assured API" ,
+		"issuetype": {
+			"name" : "Bug"
+		}
+		
+	}
+	
+}
